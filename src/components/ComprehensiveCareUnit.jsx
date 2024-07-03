@@ -1,7 +1,7 @@
 
 const ComprehensiveCareUnit = () => {
     return (
-        <div className="mb-10 flex">
+        <div className="mb-40 flex">
             <div className="w-56 h-80 p-5 border bg-white rounded-3xl">
                 <h2 className="font-semibold text-4xl mb-2">90%</h2>
                 <p className="text-sm mb-7 font-normal max-w-36">Patient satisfaction rate, reflecting our commitment.</p>
@@ -51,7 +51,7 @@ const ComprehensiveCareUnit = () => {
             </div>
             <div className="w-56 h-80 p-5 border bg-white rounded-3xl">
                 <h2 className="font-semibold text-4xl mb-2">50+</h2>
-                <p className="text-sm mb-7 font-normal max-w-36">Free lession video 
+                <p className="text-sm mb-12 font-normal max-w-36">Free lession video 
                 for patient</p>
                 <div className="flex justify-center">
                     <img className="w-32 h-32" src="/src/assets/Group1.png" alt="" />

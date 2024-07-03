@@ -1,6 +1,7 @@
 import Banner from "./components/Banner"
 import ComprehensiveCareUnit from "./components/ComprehensiveCareUnit"
 import Navbar from "./components/Navbar"
+import WhoWeAre from "./components/WhoWeAre"
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
     <Navbar></Navbar>
     <Banner></Banner>
     <ComprehensiveCareUnit></ComprehensiveCareUnit>
+    <WhoWeAre></WhoWeAre>
   </div>
     
   )
