@@ -2,6 +2,7 @@ import Banner from "./components/Banner"
 import ComprehensiveCareUnit from "./components/ComprehensiveCareUnit"
 import EmpoweringHealth from "./components/EmpoweringHealth"
 import Navbar from "./components/Navbar"
+import Testomonial from "./components/Testomonial"
 import WhoWeAre from "./components/WhoWeAre"
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
     <ComprehensiveCareUnit></ComprehensiveCareUnit>
     <WhoWeAre></WhoWeAre>
     <EmpoweringHealth></EmpoweringHealth>
+  <Testomonial></Testomonial>
   </div>
     
   )
