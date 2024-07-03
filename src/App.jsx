@@ -1,5 +1,6 @@
 import Banner from "./components/Banner"
 import ComprehensiveCareUnit from "./components/ComprehensiveCareUnit"
+import EmpoweringHealth from "./components/EmpoweringHealth"
 import Navbar from "./components/Navbar"
 import WhoWeAre from "./components/WhoWeAre"
 
@@ -11,6 +12,7 @@ function App() {
     <Banner></Banner>
     <ComprehensiveCareUnit></ComprehensiveCareUnit>
     <WhoWeAre></WhoWeAre>
+    <EmpoweringHealth></EmpoweringHealth>
   </div>
     
   )
