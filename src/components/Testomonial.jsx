@@ -7,7 +7,7 @@ const Testomonial = () => {
                 <h2 className="btn border-[#020043] bg-[#FFFFF5] rounded-3xl px-6 py-3 font-normal text-base mb-4">Testimonial</h2>
                 <h1 className="text-4xl font-semibold mb-8">What they say about us</h1>
             </div>
-           <div className="flex gap-6">
+           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
            <div className="w-[370px] h-60">
                 <div className="bg-[#FFFFF5] rounded-lg p-5">
                     <h2 className="font-semibold text-xl mb-3">Expertise and Compassion Combined</h2>
