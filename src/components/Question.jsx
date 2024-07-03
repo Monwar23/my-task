@@ -4,7 +4,7 @@ const Question = () => {
     return (
         <div className="mb-40">
             <div className=" sm:px-6">
-                <div>
+                <div className="px-8 sm:px-0">
                     <h2 className="btn border-[#020043] bg-[#FFFFF5] rounded-3xl px-6 py-3 font-normal text-base mb-4 inline-block">Faq</h2>
                     <h1 className="text-4xl font-semibold mb-8">Frequently Asked Questions</h1>
                 </div>

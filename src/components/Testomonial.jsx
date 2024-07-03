@@ -2,7 +2,7 @@ import { FaStar } from "react-icons/fa";
 
 const Testomonial = () => {
     return (
-        <div className="mb-20 lg:mb-40">
+        <div className="mb-20 lg:mb-40 px-8 lg:px-0">
             <div>
                 <h2 className="btn border-[#020043] bg-[#FFFFF5] rounded-3xl px-6 py-3 font-normal text-base mb-4">Testimonial</h2>
                 <h1 className="text-4xl font-semibold mb-8">What they say about us</h1>
