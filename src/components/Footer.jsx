@@ -2,9 +2,9 @@ import { FaFacebookF, FaInstagram, FaLinkedinIn, FaYoutube } from "react-icons/f
 
 const Footer = () => {
     return (
-        <div className="bg-[#020043] text-[#FFFFF5] max-w-[1492px] mx-auto lg:h-96 px-8 lg:px-40 pt-[120px] pb-32">
-            <img src="/src/assets/Media/logo light.png" alt="" className="mb-8" />
-            <div className="grid grid-cols-1 lg:grid-cols-4 gap-8 lg:gap-0">
+        <div className="bg-[#020043] text-[#FFFFF5] max-w-[1492px] mx-auto lg:h-96 px-8 lg:px-40 pt-24 pb-32">
+            <img src="/Media/logo light.png" alt="" className="mb-8" />
+            <div className="grid grid-cols-1 lg:grid-cols-4 gap-8 lg:gap-32">
                 <div>
                     <p className="text-base w-[297px]">
                         123 Main Street Anytown, USA <br />Postal Code: 12345

@@ -12,7 +12,7 @@ const EmpoweringHealth = () => {
                     <button className="btn bg-[#FFC637] rounded-xl hover:bg-[#e7b330] hover:text-white">Appointment <MdArrowOutward /></button>
                 </div>
                 <div className="mt-10 lg:mt-0 lg:ml-32">
-                    <img className="rounded-3xl" src="/src/assets/Media/Rectangle 27-2.png" alt=""/>
+                    <img className="rounded-3xl" src="/Media/Rectangle 27-2.png" alt=""/>
                     <div className="relative w-full lg:w-[320px] h-36 rounded-3xl -mt-44 ml-5 bg-[#343268] opacity-80">
                         <h2 className="font-medium text-white text-xl pt-4 pl-4 mb-2">Advanced Technology</h2>
                         <div>
@@ -26,7 +26,7 @@ const EmpoweringHealth = () => {
             </div>
             <div className="flex flex-col lg:flex-row gap-7">
                 <div className="mt-20">
-                    <img className="rounded-3xl" src="/src/assets/Media/Rectangle 27-1.png" alt=""/>
+                    <img className="rounded-3xl" src="/Media/Rectangle 27-1.png" alt=""/>
                     <div className="relative w-full lg:w-[320px] h-36 rounded-3xl -mt-44 ml-5 bg-[#343268] opacity-80">
                         <h2 className="font-medium text-white text-xl pt-4 pl-4 mb-2">Online Doctor Meet</h2>
                         <div>
@@ -38,7 +38,7 @@ const EmpoweringHealth = () => {
                     </div>
                 </div>
                 <div className="mt-20">
-                    <img className="rounded-3xl" src="/src/assets/Media/Rectangle 27.png" alt=""/>
+                    <img className="rounded-3xl" src="/Media/Rectangle 27.png" alt=""/>
                     <div className="relative w-full lg:w-[320px] h-36 rounded-3xl -mt-44 ml-5 bg-[#343268] opacity-80">
                         <h2 className="font-medium text-white text-xl pt-4 pl-4 mb-2">Consultancy your health</h2>
                         <div>

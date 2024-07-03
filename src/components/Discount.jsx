@@ -4,7 +4,7 @@ const Discount = () => {
     return (
         <div className="mb-40">
             <div className="relative w-full">
-                <img src='/src/assets/Media/Rectangle 32.png' className="w-full rounded-xl" />
+                <img src='/Media/Rectangle 32.png' className="w-full rounded-xl" />
                 <div className="absolute rounded-xl flex items-center h-full left-0 top-0 bg-gradient-to-r from-[#020043] to-transparent">
                     <div className='text-white space-y-7 w-[530px] pl-12'>
                         <h2 className='text-5xl font-semibold'>Get Your <br />

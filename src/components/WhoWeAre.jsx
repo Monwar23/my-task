@@ -11,7 +11,7 @@ const WhoWeAre = () => {
                 <button className="btn bg-[#FFC637] rounded-xl hover:bg-[#e7b330] hover:text-white">Learn more <MdArrowOutward /></button>
             </div>
             <div className="md:w-1/2 md:ml-8 mt-8 md:mt-0">
-                <img className="w-full" src="/src/assets/Media/Rectangle 24.png" alt="" />
+                <img className="w-full" src="/Media/Rectangle 24.png" alt="" />
                 <div className="relative w-full md:max-w-[360px] h-52 rounded-3xl -mt-20 md:-mt-[165px] md:-ml-16 bg-[#343268] ">
                     <h2 className="font-medium text-white text-2xl pt-8 pl-6 mb-3">Our mission is simple</h2>
                     <p className="w-full pl-6 text-base text-[#FFFFFFCC]">To provide high-quality healthcare services that are accessible, personalized, and patient-centered.</p>

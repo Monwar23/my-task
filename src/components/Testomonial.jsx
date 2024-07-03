@@ -15,7 +15,7 @@ const Testomonial = () => {
                         I can't thank enough for their exceptional care. The doctors and staff showed incredible expertise and compassion throughout my treatment journey. I felt truly cared for every step of the way.
                     </p>
                     <div className="flex items-center gap-3">
-                        <img className="rounded-full w-11 h-11" src="/src/assets/1.jpg" alt="Sarah D" />
+                        <img className="rounded-full w-11 h-11" src="/1.jpg" alt="Sarah D" />
                         <div>
                             <h3 className="font-semibold text-sm">Sarah D, <span className="text-sm text-[#4D4C7B] font-normal">IT Professional</span></h3>
                             <div className="text-[#FFE03D] flex gap-1">
@@ -36,7 +36,7 @@ const Testomonial = () => {
                     My experience at [Healthcare Provider Name] was life-changing. The prompt and accurate diagnosis, coupled with the advanced treatments they provided, saved my life.
                     </p>
                     <div className="flex items-center gap-3">
-                        <img className="rounded-full w-11 h-11" src="/src/assets/2.jpg" alt="Sarah D" />
+                        <img className="rounded-full w-11 h-11" src="/2.jpg" alt="Sarah D" />
                         <div>
                             <h3 className="font-semibold text-sm">Michael R, <span className="text-sm text-[#4D4C7B] font-normal">Business Executive</span></h3>
                             <div className="text-[#FFE03D] flex gap-1">
@@ -58,7 +58,7 @@ const Testomonial = () => {
                     As a busy professional, I appreciate the convenience and quality of care I receive at [Healthcare Provider Name]. From telemedicine consultations to routine check-ups, they've become my trusted partner in health and
                     </p>
                     <div className="flex items-center gap-3">
-                        <img className="rounded-full w-11 h-11" src="/src/assets/3..png" alt="Sarah D" />
+                        <img className="rounded-full w-11 h-11" src="/3..png" alt="Sarah D" />
                         <div>
                             <h3 className="font-semibold text-sm">David S, <span className="text-sm text-[#4D4C7B] font-normal">Lawyer</span></h3>
                             <div className="text-[#FFE03D] flex gap-1">
